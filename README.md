@@ -16,7 +16,7 @@
 
 ![image](https://github.com/BitArtificial/mm131/blob/master/4.png)
 
-![image](https://github.com/BitArtificial/mm131/blob/master/5.png)
+![image](https://github.com/BitArtificial/mm131/blob/master/5.jpg)
 
 
 使用这些美女图片作为原始图片制作了数据集：将脸部切了出来，切得非常的干净。
